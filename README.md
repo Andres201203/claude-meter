@@ -2,6 +2,8 @@
 
 A small macOS desktop widget that shows how much of your Claude plan limits you've used: the **5-hour session limit** and the **weekly limit**, with the time until each one resets.
 
+<p align="center"><img src="docs/screenshot.png" alt="Claude Meter widget showing 5-hour and weekly usage" width="420"></p>
+
 It sits on your desktop, above the wallpaper and below your app windows, and refreshes every 5 minutes.
 
 ## How it works
